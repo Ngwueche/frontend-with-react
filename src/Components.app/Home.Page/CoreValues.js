@@ -3,7 +3,7 @@ import React from "react";
 export function CoreValues() {
   return (
     <div>
-      <div className="core-values-section">
+      <div className="core-values-section container">
         <div className="our-core-values">
           <h2 className="our-core-values-Header">Core Values</h2>
         </div>
