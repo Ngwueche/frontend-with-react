@@ -105,7 +105,8 @@ a:active {
 .hero{
     background-image:linear-gradient( to left, rgba(0, 1, 05, 0.6), rgba(0, 0, 0, 0.96)), url("../img/site_images/ME\ drawing\ 1.jpg");
     opacity: 90%;
-    height: 60vh;
+    padding-bottom: 100px;
+    padding-top: 50px;
     background-repeat: no-repeat;
     background-color: #0a0a0a ;
     background-size: cover;
